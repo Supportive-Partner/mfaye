@@ -1,1 +1,8 @@
 /* your styles go here */
+.img-responsive.img-circle {
+    border: 1px solid #eee;
+}
+
+#contact .heading:after {
+    margin-left: 45%;
+}
